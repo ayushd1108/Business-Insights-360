@@ -73,28 +73,29 @@ Recently the company has faced a unforeseen loss by opening store in America bas
 Project kick off session, where you should get clear of for what and why this project and all other questions you have with regards to the project
 
 ## Home
-![Home View]([URL-to-your-image](https://github.com/ayushd1108/Business-Insights-360/blob/main/Home.png))
+![Home](https://github.com/ayushd1108/Business-Insights-360/blob/main/Home.png)
 
 ## Info Page
-https://github.com/ayushd1108/Business-Insights-360/blob/main/Info.png
+![Info](https://github.com/ayushd1108/Business-Insights-360/blob/main/Info.png)
 
 ## Support
 ![Support](https://github.com/ayushd1108/Business-Insights-360/blob/main/Support.png)
 
 ## Finance View
-https://github.com/ayushd1108/Business-Insights-360/blob/main/Finance%20View.png
+![Finance](https://github.com/ayushd1108/Business-Insights-360/blob/main/Finance%20View.png)
 
 ## Sales View
-https://github.com/ayushd1108/Business-Insights-360/blob/main/Sales%20View.png
+![Sales](https://github.com/ayushd1108/Business-Insights-360/blob/main/Sales%20View.png)
 
 ## Marketing View
-https://github.com/ayushd1108/Business-Insights-360/blob/main/Marketing%20View.png
+![Marketing](https://github.com/ayushd1108/Business-Insights-360/blob/main/Marketing%20View.png)
 
 ## Supply chain View
-https://github.com/ayushd1108/Business-Insights-360/blob/main/Supply%20Chain%20View.png
+![Supply](https://github.com/ayushd1108/Business-Insights-360/blob/main/Supply%20Chain%20View.png)
 
 ## Executive View
-https://github.com/ayushd1108/Business-Insights-360/blob/main/Executive%20View.png
+![Executive](https://github.com/ayushd1108/Business-Insights-360/blob/main/Executive%20View.png
+)
 
 ## Project Outcome
 
