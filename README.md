@@ -7,6 +7,7 @@ AtliQ Hardware is growing rapidly in the recent years, and they have decided to 
 # Live Dashboard
 
 [Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiYjBkMmVjNTgtNTVhMC00YjljLTk4YTUtZDk0YWM4OTllOWJiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=c3dc979953d3d246762c)
+
 [Portfolio link](https://codebasics.io/portfolio/Ayush-Dongre)
 ## Tech stacks
 
