@@ -73,13 +73,13 @@ Recently the company has faced a unforeseen loss by opening store in America bas
 Project kick off session, where you should get clear of for what and why this project and all other questions you have with regards to the project
 
 ## Home
-https://github.com/ayushd1108/Business-Insights-360/blob/main/Home.png
+![Home View]([URL-to-your-image](https://github.com/ayushd1108/Business-Insights-360/blob/main/Home.png))
 
 ## Info Page
 https://github.com/ayushd1108/Business-Insights-360/blob/main/Info.png
 
 ## Support
-https://github.com/ayushd1108/Business-Insights-360/blob/main/Support.png
+![Support](https://github.com/ayushd1108/Business-Insights-360/blob/main/Support.png)
 
 ## Finance View
 https://github.com/ayushd1108/Business-Insights-360/blob/main/Finance%20View.png
